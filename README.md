@@ -10,7 +10,7 @@ A collection of awesome blaseball utilities
 
 - [Blaseball](https://www.blaseball.com/) - Official website where it all began
 - [Blaseball Wiki](http://blaseball.fandom.com) - Fanmade wiki aggregating both game events and teams and players lore
-- [Slortmanship](https://www.splortsmanship.cool/index.html) - Timeline and introduction guide
+- [Splortsmanship](https://www.splortsmanship.cool/index.html) - Timeline and introduction guide
 - [Blae Booru](https://blase.booru.org/) - Collection of fan arts
 - [Reblase](https://reblase.sibr.dev/) - Blaseball game viewer
 - [iliana.github.io/blaseball-scoreboard](https://iliana.github.io/blaseball-scoreboard/) - Minimalist scoreboard for Blaseball
