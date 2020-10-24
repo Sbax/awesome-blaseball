@@ -45,11 +45,11 @@ A collection of awesome blaseball utilities
 | 🍬     | Kansas City Breath Mints | [@KC_BreathMints](https://twitter.com/KC_BreathMints)   | [freshbreath.zone](http://freshbreath.zone/)                    |
 | 🍗     | Mexico City Wild Wings   | [@cdmxwildwings](https://twitter.com/cdmxwildwings)     |                                                                 |
 | 🚤     | Miami Dale               | [@MiamiBlaseball](https://twitter.com/MiamiBlaseball)   |                                                                 |
-| 📱     | New York Millennials     | [@nymillenials](https://twitter.com/nymillenials)       |                                                                 |
+| 📱     | New York Millennials     | [@nymillenials](https://twitter.com/nymillenials)       | [nymillennials.rocks](https://www.nymillennials.rocks/)         |
 | 🥧     | Philly Pies              | [@philly_pies](https://twitter.com/philly_pies)         |                                                                 |
 | 💋     | San Francisco Lovers     | [@LoversBlaseball](https://twitter.com/LoversBlaseball) |                                                                 |
 | 🎸     | Seattle Garages          | [@TheSeaGarages](https://twitter.com/TheSeaGarages)     | [thegarages.bandcamp.com](https://thegarages.bandcamp.com/)     |
-| 🏋️‍♀️     | Tokyo Lift               | [@Tokyo_Blaseball](https://twitter.com/Tokyo_Blaseball) | [nymillennials.rocks](https://www.nymillennials.rocks/)         |
+| 🏋️‍♀️     | Tokyo Lift               | [@Tokyo_Blaseball](https://twitter.com/Tokyo_Blaseball) |                                                                 |
 | 🌮     | Unlimited Tacos          | [@TACOBLASEBALL](https://twitter.com/TACOBLASEBALL)     | [tacosblaseball.com](https://tacosblaseball.com/)               |
 | ✨     | Yellowstone Magic        | [@magic_blaseball](https://twitter.com/magic_blaseball) | [yellowstonemagic.carrd.co](https://yellowstonemagic.carrd.co/) |
 
