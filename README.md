@@ -34,7 +34,7 @@ A collection of awesome blaseball utilities
 | 🌹     | Boston Flowers           | [@BOS_flowers](https://twitter.com/BOS_flowers)         |                                                                 |
 | 👐     | Breckenridge Jazz Hands  | [@blaseball_jazz](https://twitter.com/blaseball_jazz)   |                                                                 |
 | 🗣     | Canada Moist Talkers     | [@MoistTalkers](https://twitter.com/MoistTalkers)       | [moist.fans](https://moist.fans/)                               |
-| 👟     | Charleston Shoe Thieves  | [@CHSSTFans](https://twitter.com/CHSSTFans)             |                                                                 |
+| 👟     | Charleston Shoe Thieves  | [@CHSSTFans](https://twitter.com/CHSSTFans)             | [shoethieves.com](https://shoethieves.com/)                     |
 | 🔥     | Chicago Firefighters     | [@ChiBlaseball](https://twitter.com/ChiBlaseball)       |                                                                 |
 | 🥩     | Dallas Steaks            | [@DallasSteaks](https://twitter.com/DallasSteaks)       |                                                                 |
 | 🐅     | Hades Tigers             | [@HadesBlaseball](https://twitter.com/HadesBlaseball)   | [hades-tigers.carrd.co](https://hades-tigers.carrd.co/)         |
