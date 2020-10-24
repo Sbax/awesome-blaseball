@@ -48,7 +48,7 @@ A collection of awesome blaseball utilities
 | 🥧     | Philly Pies              | [@philly_pies](https://twitter.com/philly_pies)         |                                                                 |
 | 💋     | San Francisco Lovers     | [@LoversBlaseball](https://twitter.com/LoversBlaseball) |                                                                 |
 | 🎸     | Seattle Garages          | [@TheSeaGarages](https://twitter.com/TheSeaGarages)     | [thegarages.bandcamp.com](https://thegarages.bandcamp.com/)     |
-| 🏋️‍♀️     | Tokyo Lift               | [@Tokyo_Blaseball](https://twitter.com/Tokyo_Blaseball) |                                                                 |
+| 🏋️‍♀️     | Tokyo Lift               | [@Tokyo_Blaseball](https://twitter.com/Tokyo_Blaseball) | [nymillennials.rocks](https://www.nymillennials.rocks/)         |
 | 🌮     | Unlimited Tacos          | [@TACOBLASEBALL](https://twitter.com/TACOBLASEBALL)     | [tacosblaseball.com](https://tacosblaseball.com/)               |
 | ✨     | Yellowstone Magic        | [@magic_blaseball](https://twitter.com/magic_blaseball) | [yellowstonemagic.carrd.co](https://yellowstonemagic.carrd.co/) |
 
