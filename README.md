@@ -16,6 +16,7 @@ A collection of awesome blaseball utilities
 - [iliana.github.io/blaseball-scoreboard](https://iliana.github.io/blaseball-scoreboard/) - Minimalist scoreboard for Blaseball
 - [The Microphone Lifts](https://the-microphone-lifts.github.io/) - Minimalist scoreboard and TTS feed
 - [Blaseball Reference](https://blaseball-reference.com/) - Collection of stats about teams, players, games and all things blaseball
+- [abslve](https://slavfox.space/abslve/) - another Blaseball [FK] stlats viewer
 
 ## Twitter
 
@@ -39,7 +40,7 @@ A collection of awesome blaseball utilities
 | 🥩     | Dallas Steaks            | [@DallasSteaks](https://twitter.com/DallasSteaks)       |                                                                 |
 | 🐅     | Hades Tigers             | [@HadesBlaseball](https://twitter.com/HadesBlaseball)   | [hades-tigers.carrd.co](https://hades-tigers.carrd.co/)         |
 | 🏝     | Hawai'i Fridays          | [@hifridays](https://twitter.com/hifridays)             |                                                                 |
-| 🌞     | Hellmouth Sunbeams       | [@hmouthsunbeams](https://twitter.com/hmouthsunbeams)   |                                                                 |
+| 🌞     | Hellmouth Sunbeams       | [@hmouthsunbeams](https://twitter.com/hmouthsunbeams)   | [hellmouth.club](https://hellmouth.club/)                 |
 | 🕵     | Houston Spies            | [@SpyHouston](https://twitter.com/SpyHouston)           | [houstonspies.cyou](https://houstonspies.cyou/)                 |
 | 🍬     | Kansas City Breath Mints | [@KC_BreathMints](https://twitter.com/KC_BreathMints)   | [freshbreath.zone](http://freshbreath.zone/)                    |
 | 🍗     | Mexico City Wild Wings   | [@cdmxwildwings](https://twitter.com/cdmxwildwings)     |                                                                 |
