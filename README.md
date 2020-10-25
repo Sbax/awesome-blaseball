@@ -17,6 +17,8 @@ A collection of awesome blaseball utilities
 - [The Microphone Lifts](https://the-microphone-lifts.github.io/) - Minimalist scoreboard and TTS feed
 - [Blaseball Reference](https://blaseball-reference.com/) - Collection of stats about teams, players, games and all things blaseball
 - [abslve](https://slavfox.space/abslve/) - another Blaseball [FK] stlats viewer
+- [blase.nyaa.gay/bets](https://blase.nyaa.gay/bets/) - Get suggested bet amounts for the next game 
+- [blase.nyaa.gay/wins](https://blase.nyaa.gay/wins/) - Get the number of wins per win and wins per loss for each team in real(ish) time 
 
 ## Twitter
 
