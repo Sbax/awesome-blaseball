@@ -9,7 +9,8 @@ A collection of awesome blaseball utilities
 ## Websites
 
 - [Blaseball](https://www.blaseball.com/) - Official website where it all began
-- [Blaseball Wiki](http://blaseball.fandom.com) - Fanmade wiki aggregating both game events and teams and players lore
+- [Blaseball Wiki](https://www.blaseball.wiki) - Fanmade wiki aggregating both game events and teams and players lore
+- [Fandom Wiki](http://blaseball.fandom.com) - Old wiki, replacement is ongoing in favor of Blaseball Wiki
 - [Splortsmanship](https://www.splortsmanship.cool/index.html) - Timeline and introduction guide
 - [Blae Booru](https://blase.booru.org/) - Collection of fan arts
 - [Reblase](https://reblase.sibr.dev/) - Blaseball game viewer
