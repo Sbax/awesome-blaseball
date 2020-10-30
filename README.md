@@ -46,7 +46,7 @@ A collection of awesome blaseball utilities
 | 🌞     | Hellmouth Sunbeams       | [@hmouthsunbeams](https://twitter.com/hmouthsunbeams)   | [hellmouth.club](https://hellmouth.club/)                       |
 | 🕵     | Houston Spies            | [@SpyHouston](https://twitter.com/SpyHouston)           | [houstonspies.cyou](https://houstonspies.cyou/)                 |
 | 🍬     | Kansas City Breath Mints | [@KC_BreathMints](https://twitter.com/KC_BreathMints)   | [freshbreath.zone](http://freshbreath.zone/)                    |
-| 🍗     | Mexico City Wild Wings   | [@cdmxwildwings](https://twitter.com/cdmxwildwings)     |                                                                 |
+| 🍗     | Mexico City Wild Wings   | [@cdmxwildwings](https://twitter.com/cdmxwildwings)     | [wildwin.gs](http://wildwin.gs/)                                |
 | 🚤     | Miami Dale               | [@MiamiBlaseball](https://twitter.com/MiamiBlaseball)   |                                                                 |
 | 📱     | New York Millennials     | [@nymillenials](https://twitter.com/nymillenials)       | [nymillennials.rocks](https://www.nymillennials.rocks/)         |
 | 🥧     | Philly Pies              | [@philly_pies](https://twitter.com/philly_pies)         |                                                                 |
